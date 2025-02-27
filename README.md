@@ -1,2 +1,2 @@
 # HTML aulas
- Meus exercícios feitos durante as aulas
+ Meu exercício feito durante a aula
